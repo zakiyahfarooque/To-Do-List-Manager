@@ -4,11 +4,11 @@ A simple task management app that allows users to add, update, and delete tasks.
 A simple command-line to-do list manager built in Java that allows users to add, remove, save, and load tasks from a file.
 
 ## Features
-✅ Add tasks one by one
-✅ Add multiple tasks at once
-✅ Mark tasks as done
-✅ Save and load tasks from a file
-
+- ✅ Add tasks one by one  
+- ✅ Add multiple tasks at once  
+- ✅ Mark tasks as done  
+- ✅ Save and load tasks from a file
+  
 ## How to Run
 
 1. Clone the repository
